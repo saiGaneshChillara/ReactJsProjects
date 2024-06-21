@@ -1,0 +1,19 @@
+.modal-container {
+    position: fixed;
+    z-index: 1;
+    padding-top: 150px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #b12323;
+}
+.modal-content {
+    position: relative;
+    background-color: #fafafa;
+    margin: auto;
+    padding: 0;
+    border: 1px solid red;
+    width: 80%;
+}
